@@ -19,8 +19,11 @@
  <br>
   
   <div align="center">
-<img align="center" height="150px"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=JuanNascimentoSouza&show_icons=true&locale=en&layout=compact&theme=dracula" alt="JuanNascimentoSouza" />
-    
+
+<img align="center" height="150px"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=JuanNascimentoSouza&show_icons=true&locale=en&layout=compact&theme=dracula" alt="JuanNascimentoSouza"/>
+<img align="center" height=150px src="http://github-readme-streak-stats.herokuapp.com/?user=juannascimentosouza&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&ring=050660&fire=050660&sideNums=050660">
+
+
 <br>
 <br>
     
