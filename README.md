@@ -33,4 +33,4 @@
 
 <br>
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3VjeGhxbHhibTB6cjAxazlxMGtlY2F6cjF5dGQ0cnM5bmh2bXNiaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JhUKz1DYkaIpHEV83H/giphy.gif">
+<img src="https://media1.tenor.com/m/4smoiMtxFPkAAAAC/osu-cursor-dance.gif">
