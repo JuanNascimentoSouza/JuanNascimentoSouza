@@ -4,8 +4,6 @@
 
 <div align=center>
 <h3> <img width = 5%; height = 5%> Bem vindo ao meu perfil 👋</h3>
-<h4> <img width = 5%; height = 5%> Gosto de estilizar com Bootstrap, CSS e Tailwind</h4>
-<h4> <img width = 5%; height = 5%> Utilizo Java no Back-end</h4>
 </div>
 
 <div align="center">
